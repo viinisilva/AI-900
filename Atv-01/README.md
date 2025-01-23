@@ -10,4 +10,4 @@ O passo a passo para ser seguido, é disponibilizado pela própria microsoft, at
 
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
 <h1>Testes Utilizando o Laboratório</h1>
-<a href=" https://github.com/viinisilva/AI-900/blob/main/Atv-01/1.jpg">
+<img src="https://github.com/viinisilva/AI-900/blob/main/Atv-01/1.jpg">
