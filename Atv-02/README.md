@@ -14,7 +14,7 @@ Recurso que transforma e detecta rostos em imagens.
 
 02 - O recurso vai detectar o que esta na imagem:   
 
-![alt text](<ATV 2/04.PNG>)
+<img src="001.jpg">
 ...
 
 ## Optical character recognition
