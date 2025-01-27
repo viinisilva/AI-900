@@ -10,12 +10,12 @@ Recurso que transforma e detecta rostos em imagens.
 01 - Dentro do Vision Studio na guia *Image analysis*, faça o Upload da imagem
 
 <img src="PortalVision3.jpg">
-...
+
 
 02 - O recurso vai detectar o que esta na imagem:   
 
 <img src="output/001.jpg">
-...
+
 
 ## Optical character recognition
 Através deste recurso a Inteligência Artificial extrai o texto que conseguir identificar na imagem, util para escanear documentos e notas:
