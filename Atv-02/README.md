@@ -22,13 +22,13 @@ Através deste recurso a Inteligência Artificial extrai o texto que conseguir i
 
 01 - 
 
-![alt text](outputs/03.PNG)
+<img src="PortalVision4.jpg">
 ...
 
 
 02 - O recurso detecta o texto da imagem:
 
-![alt text](outputs/04.PNG)
+<img src="output/002.jpg">
 ...
 
 ## Considerações Finais
