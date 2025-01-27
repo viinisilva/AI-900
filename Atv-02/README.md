@@ -9,7 +9,7 @@ Recurso que transforma e detecta rostos em imagens.
 
 01 - Dentro do Vision Studio na guia *Image analysis*, faça o Upload da imagem
 
-<img src="PortalVision1.jpg">
+<img src="PortalVision3.jpg">
 ...
 
 02 - O recurso vai detectar o que esta na imagem:   
