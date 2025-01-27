@@ -20,17 +20,17 @@ Recurso que transforma e detecta rostos em imagens.
 ## Optical Character Recognition
 Através deste recurso a Inteligência Artificial extrai o texto que conseguir identificar na imagem, util para escanear documentos e notas:
 
-01 - 
+01 - Dentro do Vision Studio faça o Upload do texto para ser examinado
 
 <img src="PortalVision4.jpg">
-...
+
 
 
 02 - O recurso detecta o texto da imagem:
 
 <img src="output/002.jpg">
-...
+
 
 ## Considerações Finais
 
- Os recursos são o futuro das inteligências Artificiais para diversos fins, seja ele para segurança ou para simples tarefas do dia-a-dia.
+ Os recursos representam o futuro da inteligência artificial, atendendo a diversos propósitos, desde a segurança até a automação de tarefas cotidianas.
