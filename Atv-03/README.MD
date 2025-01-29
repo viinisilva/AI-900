@@ -9,12 +9,12 @@ Análise de Sentimentos com Language Studio </span>
 Através deste recurso a IA analiza textos afim de saber qual a satisfação atraves do sentimento transmitido pelo texto.
 
 ### 01 - Dentro do Language Studio guia *Classify test* clique na opção Analyze sentiment and mine opinions:   
-![alt text](img/01.PNG)
+<img src="Atv-03/img/01.jpg> 
 
-![alt text](img/02.PNG)
+<img src="Atv-03/img/02.jpg> 
 
-![alt text](img/03.PNG)
-...  
+<img src="Atv-03/img/03.jpg> 
+
 
 ## Considerações Finais  
 
