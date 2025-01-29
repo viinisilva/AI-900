@@ -18,4 +18,4 @@ Através deste recurso a IA analiza textos afim de saber qual a satisfação atr
 
 ## Considerações Finais  
 
- Esse recurso facilita em análise de dados e tomada de descisão baseado no que os textos analisados passam.
+Esse recurso permite realizar análises de dados textuais mais profundas, possibilitando uma compreensão mais completa do conteúdo e facilitando a tomada de decisões estratégicas.
