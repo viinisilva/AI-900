@@ -13,11 +13,11 @@ O desafio propoe que seja criada uma pesquisa que funcione juntamente com um ser
 
 ## Criando recurso do Azure AI Search:     
 
-<img src="img/01.jpg">
+<img src="Atv-04/img/01.jpg">
 
 ## Criando recurso do Azure AI services:      
 
-<img src="img/02.jpg">
+<img src="Atv-04/img/02.jpg">
 
 ## Criando o storage:      
 
