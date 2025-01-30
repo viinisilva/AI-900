@@ -32,22 +32,16 @@ O desafio propoe que seja criada uma pesquisa que funcione juntamente com um ser
 
 Após as configurações vamos voltar ao AZURE AI SERVICES, entrar no nosso serviço e através do SEARCH EXPLORER testar se foi indexado e se a consulta esta funcionando, utilizando os comandos:
 
-<img src="img/09.jpg">
-
 ```
 search=*&$count=true    (  verifica se a indexação esta funcionando e mostra os documentos )
 ```
-![alt text](img/09.PNG)
+
+<img src="img/09.jpg">
 
 ```
 search=locations:'Chicago' ( Consulta as ocorrencias acontecidas em Chicado )
 ```
-![alt text](img/10.PNG)
-
-```
-search=sentiment:'negative' ( Consulta as ocorrencias com sentimento negativo )
-```
-![alt text](img/11.PNG)
+<img src="img/10.jpg
 
 
 ## Observações finais:      
