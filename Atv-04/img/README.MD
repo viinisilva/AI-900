@@ -7,17 +7,17 @@ Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado
 
 ## Problema:
 
-O desafio propoe que seja criada uma pesquisa que funcione juntamente com um serviço de inteligência artificial para identificar palavras chave, sentimentos, utilizando também o serviço de armazenamento do azure.
+O desafio propoe que seja criada uma pesquisa que funcione juntamente com um serviço de inteligência artificial para identificar palavras chave, sentimentos, utilizando também o serviço de armazenamento do azure. Foram utilizados os AI Search, Azure AI Services e Containers
 
 [Documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
 
 ## Criando recurso do Azure AI Search:     
 
-![alt text](img/01.PNG)
+<img src="img/01.jpg">
 
 ## Criando recurso do Azure AI services:      
 
-![alt text](img/02.PNG)
+<img src="img/02.jpg">
 
 ## Criando o storage:      
 
