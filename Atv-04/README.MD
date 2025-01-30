@@ -21,16 +21,12 @@ O desafio propoe que seja criada uma pesquisa que funcione juntamente com um ser
 
 ## Criando o storage:      
 
-![alt text](img/05.PNG)
-
-## Permitindo acesso anônimo ao Blob:      
-
-![alt text](img/06.PNG)
+<img src="img/05.jpg">
 
 
-## Importação e indexação dados para o AI SEARCH:      
+## Indexação dados para o AI SEARCH:      
 
-![alt text](img/08.PNG)
+<img src="img/08.jpg">
 
 ##  Cnsultando o índice:      
 
