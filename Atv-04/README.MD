@@ -41,9 +41,9 @@ search=*&$count=true    (  verifica se a indexação esta funcionando e mostra o
 ```
 search=locations:'Chicago' ( Consulta as ocorrencias acontecidas em Chicado )
 ```
-<img src="img/10.jpg
+<img src="img/10.jpg">
 
 
 ## Observações finais:      
 
-As ferramentas de inteligência artificial do Azure facilitam a consulta em documentos, pesquisas e depoimentos, agilizando ainda mais a consulta de satisfação de empresas sobre seus produtos e serviços.
+As ferramentas de inteligência artificial do Azure otimizam a consulta em documentos, pesquisas e depoimentos, tornando mais ágil e eficiente a análise da satisfação das empresas em relação aos seus produtos e serviços.
