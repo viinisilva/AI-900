@@ -20,9 +20,13 @@ Primeiro foi preciso criar um recurso de inteligência virtual, pesquisei por Az
 
 Após criar o seu serviço de inteligencia virtual do Azure, basta abrir o Azure AI Vision Studio e selecionar o serviço de inteligência artificial que acabamos de criar, feito isto ja esta tudo pronto para utilizarmos as nossas imagens.
 
+<img src="output/03.jpg">
+
 ## Passo 4: Utilizando as nossas imagens no serviço Azure AI Vision Studio
 
 Feitas todas as configurações, basta apenas selecionar a guia OPTICAL CHARACTER RECOGNITION e escolher a opção EXTRACT TEXT FROM IMAGES:
+
+<img src="output/02.jpg">
 
 ## Considerações finais
 
