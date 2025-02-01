@@ -30,4 +30,4 @@ Feitas todas as configurações, basta apenas selecionar a guia OPTICAL CHARACTE
 
 ## Considerações finais
 
-O recurso de reconhecimento e extração de textos em imagens do Azure possibilita que as empresas o utilizem para reconhecimento e arquivamento de documentos com agilidade e segurança, podendo ser empregado também em notas ficais, necessitando apenas que a imagem do documento seja inserida na ferramenta e seus dados ja são reconhecidos.
+O recurso de reconhecimento e extração de texto em imagens do Azure permite que as empresas utilizem a ferramenta para o reconhecimento e arquivamento de documentos com agilidade e segurança. Este recurso pode ser empregado em notas fiscais, onde basta inserir a imagem do documento na ferramenta para que seus dados sejam automaticamente reconhecidos.
