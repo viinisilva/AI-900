@@ -1,7 +1,7 @@
 # Microsoft Azure AI Fundamentals
 Bootcamp DIO AI-900
 
-![+AI 900] <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dio.me%2Farticles%2Fexplorando-o-usestate-e-useeffect-no-reactjs&psig=AOvVaw21_2kDsHchZMroSVr3zoO0&ust=1738514614209000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDg2OL1oosDFQAAAAAdAAAAABAE">
+![+AI 900] <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dio.me%2Farticles%2Fexplorando-o-usestate-e-useeffect-no-reactjs&psig=AOvVaw21_2kDsHchZMroSVr3zoO0&ust=1738514614209000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDg2OL1oosDFQAAAAAdAAAAABAE](https://github.com/viinisilva/AI-900/blob/main/Atv-01/IA-900.jpg)">
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
 
