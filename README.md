@@ -1,7 +1,7 @@
 # Microsoft Azure AI Fundamentals
 Bootcamp DIO AI-900
 
-![+AI 900] <img src="https://github.com/viinisilva/AI-900/blob/main/Atv-01/IA-900.jpg">
+<img src="https://github.com/viinisilva/AI-900/blob/main/Atv-01/IA-900.jpg">
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
 
